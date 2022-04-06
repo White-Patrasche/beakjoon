@@ -1,7 +1,5 @@
 #include <iostream>
-#include <queue>
 #include <algorithm>
-#include <cmath>
 #include <climits>
 #define MAX 501
 using namespace std;
